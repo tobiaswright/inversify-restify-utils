@@ -1,6 +1,6 @@
 {
-  "name": "inversify-restify-utils",
-  "version": "3.4.1",
+  "name": "inversify-restify-utils-ms",
+  "version": "1.0.0",
   "description": "Some utilities for the development of restify applications with Inversify",
   "main": "lib/index.js",
   "jsnext:main": "es/index.js",
@@ -59,6 +59,6 @@
   },
   "dependencies": {
     "gulp-debug": "^4.0.0",
-    "restify": "8.4.0"
+    "restify": "^8.5.1"
   }
 }
